@@ -19,7 +19,7 @@ download - binaries에서 최신파일을 다운받는다.<br>
 + Terminal - New Terminal(Ctrl+Shift+`)을 눌러 터미널을 열어준 후 cd 명령어를 통해 Lua파일이 있는 폴더로 이동한다.
 <br>![cd](./Image/cd.png)
     
-+ Lua 파일명.lua 명령어를 통해 해당 파일을 실행한다.
++ ***Lua 파일명.lua*** 명령어를 통해 해당 파일을 실행한다.
 <br>![execution](./Image/execution.png)
 
 + 혹시나 한글이 깨진다면 오른쪽 하단의 UTF-8이라 표시된 Select Encoding 부분을 눌러 Korean(EUC-KR)로 변경한다.
@@ -29,7 +29,7 @@ download - binaries에서 최신파일을 다운받는다.<br>
 + 설치는 공식사이트에서 다운로드 하여 설치한다.
 <br><https://www.sublimetext.com>
 
-+ 실행할 파일을 열고 Tools - Build(Ctrl+B)를 누른다.
++ 실행할 파일을 열고 Tools - Build ***(Ctrl+B)*** 를 누른다.
 <br>![execution2](./Image/execution2.png)
 <br><br><br>
 
