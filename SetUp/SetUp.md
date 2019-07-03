@@ -35,4 +35,5 @@ download - binaries에서 최신파일을 다운받는다.<br>
 
 # 3.정리
 여러가지 방법이 있겠지만 처음에는 이 둘 중 한가지 방법으로 시작해보는건 어떨까? <br><br>
-사용한지는 얼마되지 않았지만 개인적으로는 Sublime Text가 좀 더 편하다고 생각한다.
+개인적으로는 Sublime Text가 좀 더 편하다고 생각하지만 단점이 있다면 input을 지원하지 않는다는 점이다. <br><br>
+그렇기에 평소에는 Sublime Text를 사용하지만, Input를 입력받아야 할 경우에는 VS Code를 사용한다. <br>물론 일반 Terminal을 사용해도 상관없다.

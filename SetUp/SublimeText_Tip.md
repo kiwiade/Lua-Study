@@ -1,5 +1,6 @@
 ## 1. Fast Switching
 **<u>Ctrl + P**</u> : 열려있는 폴더의 파일명을 검색하여 빠르게 스위칭 가능
+<br>검색창이 뜨면 @함수, #단어, :라인 으로도 검색 가능
 <br><br>
 
 ## 2. Multi Selection
