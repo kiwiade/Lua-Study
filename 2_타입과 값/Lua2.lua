@@ -102,9 +102,9 @@
 
 -- 연습문제 2.1
 -- type(nil) == nil의 계산 결과는?
--- 예상 정답 : type(nil)은 문자열 "nil"이 반환 될 것이라 예상되어 false가 나올 것.
 print(type(nil) == nil)
 
+-- 예상 정답 : type(nil)은 문자열 "nil"이 반환 될 것이라 예상되어 false가 나올 것.
 -- 실제 정답 : false / 실제로도 그랬다.
 
 
@@ -112,13 +112,13 @@ print(type(nil) == nil)
 -- 다음 코드에서 a.a.a.a의 결과는 무엇인가?
 a = {}
 a.a = a
--- 예상 정답 : a.a=a 인데 거기서 .a면 nil이 아닐까? 
 
 print(a)
 print(a.a)
 print(a.a.a)
 print(a.a.a.a)
 
+-- 예상 정답 : a.a=a 인데 거기서 .a면 nil이 아닐까? 
 -- 실제 정답 : 4개 다 a의 테이블 주소를 가르킴.
 -- 
 -- 예상밖의 결과였다.
