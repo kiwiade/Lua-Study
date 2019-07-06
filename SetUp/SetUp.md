@@ -31,7 +31,10 @@ download - binaries에서 최신파일을 다운받는다.<br>
 
 + 실행할 파일을 열고 Tools - Build ***(Ctrl+B)*** 를 누른다.
 <br>![execution2](./Image/execution2.png)
+
++ 무한 루프에 빠졌다면 Tools - Cancel Build ***(Ctrl+Break)*** 를 누르자.
 <br><br><br>
+
 
 # 3.정리
 여러가지 방법이 있겠지만 처음에는 이 둘 중 한가지 방법으로 시작해보는건 어떨까? <br><br>
